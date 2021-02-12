@@ -1,4 +1,4 @@
-# Parcel seed
+# Template Application web "WowApplication"
 
 > A very simple seed to start a modern Single Page App development in no time
 > 
