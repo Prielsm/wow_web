@@ -1,0 +1,54 @@
+[
+    {
+        "id":1,
+        "name": "Citadelle de la couronne de glace",
+        "picture": "images/citadelle_couronne_glace.jpg",
+        "picture_opacity": "images/citadelle_couronne_glace2.jpg",
+        "isRaid": true,
+        "zone": "Norfendre",
+        "location": "Couronne de glace",
+        "urlVideo": "https://www.youtube.com/embed/TBxqYBYSrUw"
+
+    },
+    {
+        "id":2,
+        "name":"Descente de l'aile noire",
+        "picture":"images/descente-aile-noire.jpg",
+        "picture_opacity": "images/descente-aile-noire2.png",
+        "isRaid":true,
+        "zone":"Royaumes de l'Est",
+        "location":"Steppes Ardentes",
+        "urlVideo":"https://www.youtube.com/embed/ooJqEHvSeMI"
+    },
+    {
+        "id":3,
+        "name":"Caveaux de mogushan",
+        "picture":"images/caveaux_mogushan.jpg",
+        "picture_opacity": "images/caveaux_mogushan2.png",
+        "isRaid":false,
+        "zone":"Pandarie",
+        "location":"Val de l'Eternel printemps",
+        "urlVideo":"https://www.youtube.com/embed/DmXR0bJFd9I"
+    },
+    {
+        "id":4,
+        "name":"Bastion crépuscule",
+        "picture":"images/bastion_crepuscule.jpg",
+        "picture_opacity": "images/bastion_crepuscule2.png",
+        "isRaid":false,
+        "zone":"Royaumes de l'Est",
+        "location":"Hautes-terres du Crépuscule",
+        "urlVideo":"https://www.youtube.com/embed/udpG864nod8"
+    },
+    {
+        "id":5,
+        "name":"Karazhan",
+        "picture":"images/karazhan.jpg",
+        "picture_opacity": "images/karazhan2.png",
+        "isRaid":false,
+        "zone":"Royaumes de l'Est",
+        "location":"Défilé de Deuillevent",
+        "urlVideo":"https://www.youtube.com/embed/NR1LdzZqxdM"
+    }
+
+]
